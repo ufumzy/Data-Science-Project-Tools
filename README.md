@@ -10,10 +10,12 @@ This repository serves as a gateway to various data science projects and tools I
 Project Name 1: A snapshot of what this project does and its significance.
 Project Name 2: Explore this project that delves into [specific topic or technique].
 Project Name 3: Discover how this project tackles [specific problem or dataset].
+
 🛠️ Tools
 Tool Name 1: Overview of this tool and its applications.
 Tool Name 2: Learn about the functionality and purpose of this tool.
 Tool Name 3: Check out how this tool can enhance your data science workflow.
+
 🌟 Getting Started
 To explore any of the projects or tools, follow the links provided above to their respective repositories. Each linked repository contains detailed information about the specific project or tool.
 
